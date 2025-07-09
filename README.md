@@ -18,7 +18,8 @@
 
 ### 1. 🔧 `build.gradle (Project-level)`
 
-<span style="font-family: Courier New, monospace;">No changes needed except standard versions. But ensure this</span>
+_No changes needed except standard versions. But ensure this.._
+
 
 ```gradle
 buildscript {
