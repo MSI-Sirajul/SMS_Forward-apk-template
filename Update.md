@@ -1,7 +1,5 @@
 # SMS Forwarder App
 
-I'll create a complete Android app that forwards incoming SMS messages to a Telegram bot. The app will have all the features you requested: auto-start on boot, background operation, unrestricted data usage, battery optimization exemption, and hidden notifications.
-
 ## Project Setup
 
 First, let's set up the project structure and dependencies.
