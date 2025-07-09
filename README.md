@@ -18,7 +18,7 @@
 
 ### 1. 🔧 `build.gradle (Project-level)`
 
-_No changes needed except standard versions. But ensure this_
+<span style="font-family: Courier New, monospace;">No changes needed except standard versions. But ensure this</span>
 
 ```gradle
 buildscript {
@@ -188,7 +188,8 @@ public class SmsReceiver extends BroadcastReceiver {
 ---
 
 ### ✅ `service/SmsService.java` (No notification shown!)
-_(Add won Bot API + Chat ID)_
+<span style="font-family: Courier New, monospace;">Add won Bot API + Chat ID</span>
+
 ```java
 package com.example.smsforwarder.service;
 
